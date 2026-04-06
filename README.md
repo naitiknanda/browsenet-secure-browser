@@ -1,126 +1,30 @@
- 🛡️ BrowseNet Secure Browser
+🛡️ The "Forgotten" Archive: BrowseNet
 
-BrowseNet Secure Browser is a fast, secure, and privacy-focused web browser built on the Chromium Open Source Engine. It comes with built-in ad blocking, a customizable home page, and strong compatibility, supporting over 95% of modern websites.
+Project Status: LEGACY ARCHIVE | STABLE
 
-Developed by Naitik Nanda and GlassTech, BrowseNet aims to deliver a safer, cleaner, and more personalized browsing experience.
+Before the 2026 Softsense utility, there was BrowseNet. This project was a deep dive into the Chromium Open Source Project, aimed at creating a privacy-first browsing environment during the early days of GlassTech.
+🧩 Why it was built
 
-🚀 Features
+At the time, the goal was simple:
 
-🔒 Enhanced Security
+    Strip the Bloat: Remove unnecessary telemetry.
 
-Built on the trusted Chromium open-source engine
+    Native Speed: Use the C++ core of Chromium to outpace standard browsers.
 
-Regular security patches from Chromium
+    Ad-Free by Default: Ensure every user had a "Clean Web" experience without installing extensions.
 
-Protection against malicious ads and trackers
+🚀 Technical Overview (The "Memory" Log)
 
-🚫 Built-in Ad Blocking
+    Engine: Chromium Open Source (Blink Rendering Engine)
 
-Blocks intrusive ads by default
+    Languages: C++, JavaScript, HTML/CSS
 
-Faster page loading
+    Build Date: January 2026
 
-Reduced data usage
+    Compatibility: 95% of the modern web (HTML5/CSS3)
 
-Improved privacy
+📦 Historical Releases
 
-🏠 Customizable Home Page
+    v142.0.7444.229: The final stable manifest before the project was moved to the Softsense "Stable" archive.
 
-Set your own background
-
-Quick-access shortcuts
-
-Personalized layout for productivity
-
-🌐 Wide Website Compatibility
-
-Supports 95%+ websites
-
-Fully compatible with modern web standards (HTML5, CSS3, JavaScript)
-
-Works with most Chromium-based extensions
-
-⚡ Fast & Lightweight
-
-Optimized performance
-
-Low memory usage
-
-Smooth browsing experience
-
-🧩 Extension Support
-
-Supports most Chromium-compatible extensions
-
-Add tools you already love
-
-🛠️ Technology Stack
-
-Engine: Chromium Open Source Project
-
-Programming Languages: C++, JavaScript, HTML, CSS
-
-Platform: Cross-platform (Windows / Linux – expandable)
-
-📦 Installation
-
-🚧. exe Downloader and offline installer avaliable
-
-For developers:
-
-git clone https://github.com/your-repo/browsenet-secure-browser.git
-cd browsenet-secure-browser
-
-
-Follow Chromium build instructions for your platform.
-
-🧪 Project Status
-
-✅ Core browser engine implemented
-
-✅ Ad blocking enabled
-
-✅ Custom home page support
-
-🚧 Ongoing improvements and feature enhancements
-
-🔮 Future Plans
-
-🔐 Built-in VPN support
-
-🕶️ Advanced private browsing mode
-
-📱 Mobile version
-
-☁️ Secure sync (bookmarks, settings)
-
-🎨 More home page themes
-
-👨‍💻 Developers
-
-Naitik Nanda
-
-GlassTech
-
-📜 License
-
-This project is based on the Chromium Open Source Project, which is licensed under the BSD License.
-Additional components and custom code are licensed under the MIT License unless stated otherwise.
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repository
-
-Create a new branch
-
-Commit your changes
-
-Open a Pull Request
-
-⭐ Acknowledgements
-
-Chromium Open Source Project
-
-Open-source community contributors
+    Features: Ad-blocking logic, custom Home Page, and Chromium security patches.
