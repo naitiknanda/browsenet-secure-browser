@@ -20,6 +20,12 @@ This repository is a time capsule from 2025. It contains exactly two manifest fi
 
     Close the tab and go download Softsense v19 instead.
 
+    Realize acer/dell/lenovo/hp/asus has preactivated windows for you
+
+    Uninstall the activator
+
+    Get annoyed why i wasted time
+
 📜 Developer Note
 
     "I wrote these in 2025. It’s now 2026. If I haven't coded the rest by now, I’m probably not going to. Enjoy the dust!" — Naitik Nanda
