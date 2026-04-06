@@ -1,30 +1,25 @@
-🛡️ The "Forgotten" Archive: BrowseNet
+🛡️ BrowseNet (Abandoned)
+Status: 1% Manifest / 99% Procrastination
 
-Project Status: LEGACY ARCHIVE | STABLE
+This repository is a time capsule from 2025. It contains exactly two manifest files and a lot of broken dreams. I started this thinking I'd build a Chromium killer, but then I realized how much work that is and... yeah, I got bored.
+📂 Repository Contents:
 
-Before the 2026 Softsense utility, there was BrowseNet. This project was a deep dive into the Chromium Open Source Project, aimed at creating a privacy-first browsing environment during the early days of GlassTech.
-🧩 Why it was built
+    Manifest File 1: High hopes.
 
-At the time, the goal was simple:
+    Manifest File 2: Even higher hopes.
 
-    Strip the Bloat: Remove unnecessary telemetry.
+    Actual Browser Code: 404 Not Found.
 
-    Native Speed: Use the C++ core of Chromium to outpace standard browsers.
+🛠️ How to Build
 
-    Ad-Free by Default: Ensure every user had a "Clean Web" experience without installing extensions.
+    Open the manifest files.
 
-🚀 Technical Overview (The "Memory" Log)
+    Stare at them for 5 minutes.
 
-    Engine: Chromium Open Source (Blink Rendering Engine)
+    Realize there's no actual engine here.
 
-    Languages: C++, JavaScript, HTML/CSS
+    Close the tab and go download Softsense v19 instead.
 
-    Build Date: January 2026
+📜 Developer Note
 
-    Compatibility: 95% of the modern web (HTML5/CSS3)
-
-📦 Historical Releases
-
-    v142.0.7444.229: The final stable manifest before the project was moved to the Softsense "Stable" archive.
-
-    Features: Ad-blocking logic, custom Home Page, and Chromium security patches.
+    "I wrote these in 2025. It’s now 2026. If I haven't coded the rest by now, I’m probably not going to. Enjoy the dust!" — Naitik Nanda
